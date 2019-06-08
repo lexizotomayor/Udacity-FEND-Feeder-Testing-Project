@@ -22,8 +22,7 @@ Based on Udacity's instructions, there are four suites in this project: RSS Feed
 
 ## Credits
 
-The project used a starter set of codes furnished by [Udacity] (https://github.com/udacity/frontend-nanodegree-feedreader).
-
+The project used a starter set of codes furnished by <a href="https://github.com/udacity/frontend-nanodegree-feedreader">Udacity starter codes</a>
 
 ## Built with 
 - HTML 5
