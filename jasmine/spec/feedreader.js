@@ -60,7 +60,7 @@ $(function() {
 
     /* TODO: Write a new test suite named "The menu" */
 
-    // This suite tests 'The menu'
+    // This suite tests if menu is hidden by default and ensures it changes visibility when clicked.
     describe('The menu', () => {
         let body = $('body');
 
